@@ -1,4 +1,4 @@
-# MCQ-CHATBOT-USING-RAG
+# MCQ-BOT-USING-RAG
 
 ![image](https://github.com/sai-annadi/MCQ-CHATBOT-USING-RAG/assets/111168434/b18cd335-cae7-4256-b020-39486febbcbb)
 
