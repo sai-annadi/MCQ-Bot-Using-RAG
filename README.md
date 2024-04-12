@@ -58,7 +58,7 @@ venv\Scripts\activate  # Windows
 ```bash
 pip install -r requirements.txt
 ```
-3.Initialize the Faiss vector database by running data.py:
+3.Initialize the Faiss vector store by running data.py:
 ```bash
 python dataingest.py
 ```
